@@ -1,1 +1,1 @@
-This is second update in text after merging in test_text.
+This is second change in test for revert.
