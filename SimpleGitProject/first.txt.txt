@@ -1,1 +1,1 @@
-This is first text after git stash.
+This is text to perform cherry-pick.
