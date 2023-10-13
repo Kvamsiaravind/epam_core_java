@@ -1,5 +1,2 @@
-<<<<<<< HEAD
+
 This is text to perform cherry-pick.
-=======
-This is text to perform cherry-pick.
->>>>>>> 06ef37a (to perform cherry-pick)
